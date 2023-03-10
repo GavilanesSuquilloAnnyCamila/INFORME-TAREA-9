@@ -5,11 +5,11 @@ INFORME TAREA 9
 
 Objetvios
 
-Aprender acerca de los circuitos RlC y Resonancia con su respectivo analisis en cuanto a cercuitos en pararelo en RL y la independencia de los mismos, respondiendo de esta manera el diagrama sinusoidal de circuitos RlC en serie
+* Aprender acerca de los circuitos RlC y Resonancia con su respectivo analisis en cuanto a cercuitos en pararelo en RL y la independencia de los mismos, respondiendo de esta manera el diagrama sinusoidal de circuitos RlC en serie
 
-Analizar los circuitos tanto en serie RL como en siere-paralelo
+* Analizar los circuitos tanto en serie RL como en siere-paralelo
 
-Conocer el sistema de numeros complejos estudiando las respectivas respuestas sinusoidales, y analizars en el circuito junto con la potencia del mismo
+* Conocer el sistema de numeros complejos estudiando las respectivas respuestas sinusoidales, y analizars en el circuito junto con la potencia del mismo
 MARCO TEORICO 
 
 
@@ -61,9 +61,9 @@ Ejercicios
 
 Conclusiones
 
-El conocimieto adquirido previo a la resolucion de los ejercicios 15 y 16 fueron de ayuda e imporancia para reconocer que se debia realizar en cada caso y circuito aplicando los RL en cada uno que se presento.
+* El conocimieto adquirido previo a la resolucion de los ejerciciosfueron de ayuda e imporancia para reconocer que se debia realizar en cada caso y circuito aplicando los RL en cada uno que se presento.
 
-Los teoremas y formulas conocidas ayudaron bastante a resolver los ejercicios y aprendi de la misma manera con una mayor finalidad la manera de resolucion en circuitos RL en serie y serie paralelo.
+* Los teoremas y formulas conocidas ayudaron bastante a resolver los ejercicios y aprendi de la misma manera con una mayor finalidad la manera de resolucion en circuitos RLC Y resonancia.
 
 Referencia bibliográfica
 
